@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Daniel Likenes
+- 👀 I’m interested in attaining a job as a Junior Software Developer
+- 🌱 I’m currently learning Full Stack development as a student in the Tech Elevator Bootcmap 
+- 📫 How to reach me -
+- Linkedin - https://www.linkedin.com/in/daniel-likeness/
