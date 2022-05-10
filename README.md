@@ -4,4 +4,4 @@ I have several respositories showcasing the capstone projects I completed during
 
 You can reach me by:
 - Linkedin - https://www.linkedin.com/in/daniel-likeness/
-- Phone - 386-588-1782
+
